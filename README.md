@@ -44,7 +44,7 @@ git init
 git add .
 git commit -m "Day 22 distributed load balancing and fault tolerance"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/distributed-resilience-day22.git
+git remote add origin https://github.com/Vermaaditya3030/distributed-resilience-day22.git
 git push -u origin main
 ```
 
